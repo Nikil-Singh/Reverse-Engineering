@@ -13,3 +13,6 @@ personal reflection and links to provide evidence.
 
 Reverse Engineering Report is a compilation of all the walkthroughs with images. It also 
 contains basic information needed to perform reverse engineering.
+
+My Own Algo and Login contain the C code for the programs I wrote that was sent to friends
+to reverse engineer.
